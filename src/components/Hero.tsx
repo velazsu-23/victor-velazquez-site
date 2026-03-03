@@ -59,6 +59,7 @@ export default function Hero() {
             { label: 'GitHub', href: 'https://github.com/velazsu-23' },
             { label: 'LinkedIn', href: 'https://www.linkedin.com/in/victorvelazquez23/' },
             { label: 'Instagram', href: 'https://instagram.com/victor.v23' },
+            { label: 'Strava', href: 'https://strava.app.link/QCOJmCEsd1b' },
             { label: 'DeFrame', href: 'https://deframeart.com/' },
           ].map(({ label, href }) => (
             <a
