@@ -87,15 +87,26 @@ export default function Running() {
           </div>
         </div>
 
-        {/* Brands */}
-        <div className="mt-12 flex items-center gap-3">
-          <div className="h-px w-10 bg-muted/30 flex-shrink-0" />
-          <p className="font-heading text-sm text-muted">
-            Represented{' '}
-            <span className="text-fg">Tracksmith</span>
-            {' & '}
-            <span className="text-fg">Ciele</span>
-          </p>
+        {/* Brands + Strava */}
+        <div className="mt-12 flex flex-wrap items-center justify-between gap-4">
+          <div className="flex items-center gap-3">
+            <div className="h-px w-10 bg-muted/30 flex-shrink-0" />
+            <p className="font-heading text-sm text-muted">
+              Represented{' '}
+              <span className="text-fg">Tracksmith</span>
+              {' & '}
+              <span className="text-fg">Ciele</span>
+            </p>
+          </div>
+          <a
+            href="https://strava.app.link/QCOJmCEsd1b"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group inline-flex items-center gap-2 font-heading text-sm text-muted hover:text-accent transition-colors duration-300"
+          >
+            <span>Follow on Strava</span>
+            <span className="group-hover:translate-x-1 transition-transform duration-300">→</span>
+          </a>
         </div>
 
         {/* Mini game */}
