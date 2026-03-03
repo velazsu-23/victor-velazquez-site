@@ -14,7 +14,7 @@ export default function Icon() {
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
-          border: '1px solid rgba(255,255,255,0.07)',
+          borderRadius: '50%',
         }}
       >
         <span
