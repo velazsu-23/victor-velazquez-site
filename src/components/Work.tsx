@@ -1,5 +1,15 @@
 const jobs = [
   {
+    company: 'AWeber',
+    role: 'Director of Growth',
+    period: '2025 — Present',
+    highlight: 'Current',
+    bullets: [
+      'Leading growth strategy and execution across acquisition, activation, and retention',
+    ],
+    current: true,
+  },
+  {
     company: 'NuvoAir Medical',
     role: 'Senior Growth Marketing Manager',
     period: '2024 — 2025',

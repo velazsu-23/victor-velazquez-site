@@ -43,7 +43,7 @@ export default function Hero() {
           <div className="flex items-center gap-3">
             <div className="h-px w-10 bg-accent flex-shrink-0" />
             <span className="font-heading text-base text-fg/70">
-              Director of Growth
+              Director of Growth · AWeber
             </span>
           </div>
           <span className="hidden sm:block text-muted">·</span>
