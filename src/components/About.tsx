@@ -26,7 +26,8 @@ export default function About() {
               <span className="text-fg font-medium">DeFrame</span>, an AI startup for art museums,
               then drove growth at ProfitWell through its{' '}
               <span className="text-accent font-medium">$200M acquisition by Paddle</span>. Most
-              recently stepped into a Director of Growth role. Also a TEDx speaker recognized for
+              recently stepped into the Director of Growth role at{' '}
+              <span className="text-fg font-medium">AWeber</span>. Also a TEDx speaker recognized for
               leadership and creativity.
             </p>
             <p className="font-body text-fg/80 text-lg leading-relaxed">
